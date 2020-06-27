@@ -1,6 +1,6 @@
 # bspwm-rgb-hud
 
-This script is used to get RGB-borders in bmspwm titling manager.
+This script is used to get RGB-borders in bspwm titling manager.
 Whenever you press any key, the bspwm window border color with change.
 
 # Usage
